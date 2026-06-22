@@ -1,10 +1,18 @@
 # excel-subscription-data-analysis
-This project analyzes customer subscription data using Microsoft Excel. The analysis includes pivot tables, frequency distributions, customer segmentation, and summary statistics to identify trends in subscription behavior and customer demographics.
+Analyzed a dataset of 66,102 customer subscriptions for a financial advisory company using Microsoft Excel. The project applied descriptive statistics, pivot tables, charts, and customer segmentation techniques to evaluate customer behavior and support management decision-making.
 
-Techniques Demonstrated
-- Pivot Tables
-- Histograms
-- Frequency Analysis
-- Customer Segmentation
-- Data Cleaning
-- Summary Statistics
+Business Objectives
+-Analyze customer demographics
+-Evaluate subscription duration
+-Measure customer support preferences
+-Track subscription trends over time
+-Develop management insights and recommendations
+
+Excel Techniques Demonstrated
+-Pivot Tables
+-Histograms
+-Frequency Distributions
+-Charts
+-Data Cleaning
+-Customer Segmentation
+-Descriptive Statistics
