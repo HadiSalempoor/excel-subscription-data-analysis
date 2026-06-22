@@ -1,5 +1,5 @@
 # Excel Customer Subscription Analysis
-Analyzed a dataset of 66,102 customer subscriptions for a financial advisory company using Microsoft Excel. The project applied descriptive statistics, pivot tables, charts, and customer segmentation techniques to evaluate customer behavior and support management decision-making.
+Analyzed a dataset of over 66,000 customer subscriptions using Microsoft Excel. The project applied descriptive statistics, pivot tables, charts, and customer segmentation techniques to evaluate customer behavior and support management decision-making.
 
 ## Business Objectives
 
@@ -18,3 +18,8 @@ Analyzed a dataset of 66,102 customer subscriptions for a financial advisory com
 - Data Cleaning
 - Customer Segmentation
 - Descriptive Statistics
+
+## Files Included
+
+- Excel workbook containing data analysis and dashboards
+- Project report summarizing objectives and findings
