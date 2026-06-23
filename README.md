@@ -1,25 +1,18 @@
-# Excel Customer Subscription Analysis
-Analyzed a dataset of over 66,000 customer subscriptions using Microsoft Excel. The project applied descriptive statistics, pivot tables, charts, and customer segmentation techniques to evaluate customer behavior and support management decision-making.
+# Excel Dashboard | Customer Subscription Analysis
 
-## Business Objectives
+This project analyzes customer subscription data using Microsoft Excel. It focuses on customer trends, subscription behavior, segmentation, and business insights.
 
-- Analyze customer demographics
-- Evaluate subscription duration
-- Measure customer support preferences
-- Track subscription trends over time
-- Develop management insights and recommendations
-
-  ## Excel Techniques Demonstrated
-
-- Pivot Tables
-- Histograms
-- Frequency Distributions
+## Tools Used
+- Microsoft Excel
+- PivotTables
 - Charts
-- Data Cleaning
-- Customer Segmentation
 - Descriptive Statistics
 
-## Files Included
+## Key Highlights
+- Analyzed 66,000+ customer subscription records.
+- Built an Excel dashboard to summarize customer trends.
+- Used PivotTables and charts to visualize subscription behavior.
+- Identified patterns that can support business decision-making.
 
-- Excel workbook containing data analysis and dashboards
-- Project report summarizing objectives and findings
+## Dashboard Preview
+<img width="1286" height="432" alt="excel" src="https://github.com/user-attachments/assets/a1b939ec-c157-492f-83c0-3604e57e931f" />
